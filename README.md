@@ -16,13 +16,13 @@
 
 - 📫 How to reach me **hasancakmak11@gmail.com**
 
-- 📄 Know about my experiences [hcakmak.online](hcakmak.online)
+- 📄 Know about my experiences <a href='hcakmak.online'>hcakmak.online<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/hcakmak314159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hcakmak314159" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hasancakmak314159" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hcakmak314159" height="30" width="40" /></a>
 <a href="https://kaggle.com/hasanakmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hasanakmak" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@hasancakmak11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hasancakmak11" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hasancakmak11?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@hasancakmak11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/h_cakmak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="h_cakmak" height="30" width="40" /></a>
 </p>
 
